@@ -10,11 +10,11 @@
 
 ## Open-source contributions / 开源贡献
 
-Active contributor to high-star AI infrastructure projects:
+Selected merged and in-review code contributions:
 
-- **[FastGPT](https://github.com/labring/FastGPT)** (29.5k ⭐) — Working on [#7113](https://github.com/labring/FastGPT/issues/7113): a Retrieval Trace View for RAG debugging, surfacing chunk scores, rerank results, and final context per query in the execution log panel. Also engaged on [#6841](https://github.com/labring/FastGPT/issues/6841): a Workflow-as-Code headless API for CI/CD-driven workflow development.
-- **[CrewAI](https://github.com/crewAIInc/crewAI)** (58k ⭐) — Working on [#7220](https://github.com/crewAIInc/crewAI/issues/7220): fixing error-message propagation in `PersistenceDecorator.persist_state` when Flow state is `None`.
-- **[Dify](https://github.com/langgenius/dify)** (154k ⭐) — Working on [#40372](https://github.com/langgenius/dify/issues/40372): refactoring `Dataset.available_segment_count` to accept an explicit `Session` parameter, aligning with the repo-wide dependency injection migration.
+- **[dsh-market](https://github.com/dsh-market/dsh-market)** — **Merged [PR #438](https://github.com/dsh-market/dsh-market/pull/438):** implemented “ignore update reminders until host restart” behavior in the React marketplace UI with focused regression coverage. Additional open PRs with checks passing cover [screenshot cache invalidation](https://github.com/dsh-market/dsh-market/pull/481), [GitHub service-route fallbacks](https://github.com/dsh-market/dsh-market/pull/482), [external comment login](https://github.com/dsh-market/dsh-market/pull/484), [host-version filtering](https://github.com/dsh-market/dsh-market/pull/486), and [proxy URL normalization](https://github.com/dsh-market/dsh-market/pull/488).
+- **[dsh-web](https://github.com/zhu1090093659/dsh-web)** — **Merged [PR #1299](https://github.com/zhu1090093659/dsh-web/pull/1299):** registered Session Archive in the community plugin index and generated market manifest; approved by the maintainer with CI and plugin-mount checks passing.
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** (58k+ ⭐) — **Open [PR #7221](https://github.com/crewAIInc/crewAI/pull/7221):** corrected Flow persistence validation so absent state and missing IDs report distinct errors, with regression coverage for absent, `None`, and empty states. Automated checks and CodeRabbit review pass; awaiting maintainer review.
 
 ## Projects I maintain / 维护的项目
 
