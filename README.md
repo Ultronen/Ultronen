@@ -31,7 +31,7 @@ A visual customization plugin with live translucency controls and custom full-pa
 ## Engineering focus / 技术方向
 
 - AI application development: LLM pipelines, RAG, multi-agent systems, workflow orchestration
-- Full-stack: TypeScript, React, Next.js, Node.js, Python
+- Full-stack: TypeScript, React, Vue, Next.js, Node.js, Python, Java
 - Local-first data, plugin architecture, automated testing, CI, release engineering
 
 ## Contact / 联系
