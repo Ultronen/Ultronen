@@ -8,13 +8,15 @@
 
 </div>
 
-## Open-source contributions / 开源贡献
+## Open-source impact / 开源贡献
 
-Selected merged and in-review code contributions:
+**14 merged pull requests across community repositories**, plus active contributions to major AI application frameworks.
 
-- **[dsh-market](https://github.com/dsh-market/dsh-market)** (3.1k+ ⭐) — **Merged [PR #438](https://github.com/dsh-market/dsh-market/pull/438):** implemented “ignore update reminders until host restart” behavior in the React marketplace UI with focused regression coverage. Additional open PRs with checks passing cover [screenshot cache invalidation](https://github.com/dsh-market/dsh-market/pull/481), [GitHub service-route fallbacks](https://github.com/dsh-market/dsh-market/pull/482), [external comment login](https://github.com/dsh-market/dsh-market/pull/484), [host-version filtering](https://github.com/dsh-market/dsh-market/pull/486), and [proxy URL normalization](https://github.com/dsh-market/dsh-market/pull/488).
-- **[dsh-web](https://github.com/zhu1090093659/dsh-web)** (6.7k+ ⭐) — **Merged [PR #1299](https://github.com/zhu1090093659/dsh-web/pull/1299):** registered Session Archive in the community plugin index and generated market manifest; approved by the maintainer with CI and plugin-mount checks passing.
-- **[CrewAI](https://github.com/crewAIInc/crewAI)** (58k+ ⭐) — **Open [PR #7221](https://github.com/crewAIInc/crewAI/pull/7221):** corrected Flow persistence validation so absent state and missing IDs report distinct errors, with regression coverage for absent, `None`, and empty states. Automated checks and CodeRabbit review pass; awaiting maintainer review.
+- **[dsh-market](https://github.com/dsh-market/dsh-market)** (3.1k+ ⭐) — **6 merged PRs** across React UX and marketplace reliability: [restart-scoped update reminders](https://github.com/dsh-market/dsh-market/pull/438), [screenshot cache invalidation](https://github.com/dsh-market/dsh-market/pull/481), [GitHub service fallbacks](https://github.com/dsh-market/dsh-market/pull/482), [external comment authentication](https://github.com/dsh-market/dsh-market/pull/484), [host-version compatibility](https://github.com/dsh-market/dsh-market/pull/486), and [proxy URL normalization](https://github.com/dsh-market/dsh-market/pull/488).
+- **[dsh-web](https://github.com/zhu1090093659/dsh-web)** (6.7k+ ⭐) — **Merged [PR #1299](https://github.com/zhu1090093659/dsh-web/pull/1299):** integrated Session Archive into the community plugin index and generated its marketplace manifest.
+- **[awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** — **7 merged PRs** maintaining plugin listings, release metadata, descriptions, and curated screenshots for the DSH ecosystem.
+- **[FastGPT](https://github.com/labring/FastGPT)** — **In review [PR #7644](https://github.com/labring/FastGPT/pull/7644):** adds typed RAG retrieval traces across dataset search, Agent workflows, persistence, and UI rendering, with focused coverage for mixed recall, rerank fallback, and LLM chunk selection.
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** (58k+ ⭐) — **In review [PR #7221](https://github.com/crewAIInc/crewAI/pull/7221):** corrects Flow persistence validation so absent state and missing IDs report distinct errors, with regression coverage for absent, `None`, and empty states.
 
 ## Projects I maintain / 维护的项目
 
