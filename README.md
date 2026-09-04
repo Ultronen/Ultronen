@@ -17,6 +17,7 @@
 - **[awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)** — **7 merged PRs** maintaining plugin listings, release metadata, descriptions, and curated screenshots for the DSH ecosystem.
 - **[FastGPT](https://github.com/labring/FastGPT)** — **In review [PR #7644](https://github.com/labring/FastGPT/pull/7644):** adds typed RAG retrieval traces across dataset search, Agent workflows, persistence, and UI rendering, with focused coverage for mixed recall, rerank fallback, and LLM chunk selection.
 - **[CrewAI](https://github.com/crewAIInc/crewAI)** (58k+ ⭐) — **In review [PR #7221](https://github.com/crewAIInc/crewAI/pull/7221):** corrects Flow persistence validation so absent state and missing IDs report distinct errors, with regression coverage for absent, `None`, and empty states.
+- **[LiteLLM Docs](https://github.com/BerriAI/litellm-docs)** — **In review [PR #1196](https://github.com/BerriAI/litellm-docs/pull/1196):** prevents operators from relying on the unreleased `LITELLM_JOB_ROLE` setting, with writing lint and a full documentation build passing.
 
 ## Projects I maintain / 维护的项目
 
