@@ -28,7 +28,9 @@ A local-first session management tool: full-text search, read-only previews, ver
 
 ### [Liquid Glass](https://github.com/Ultronen/dsh-liquid-glass)
 
-A visual customization plugin with live translucency controls and custom full-page backgrounds.
+A privacy-first visual customization plugin with live translucency controls, custom full-page backgrounds, light/dark support, and a verified browser-runtime smoke suite.
+
+[Plugin market](https://awesome-dsh-plugin.com/p/Ultronen/dsh-liquid-glass/) · [npm](https://www.npmjs.com/package/dsh-liquid-glass) · [v0.1.0 release](https://github.com/Ultronen/dsh-liquid-glass/releases/tag/v0.1.0)
 
 ## Engineering focus / 技术方向
 
